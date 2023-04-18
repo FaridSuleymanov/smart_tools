@@ -1,5 +1,4 @@
 # smart_tools
-smart tools
 It consisnt of:
 MAGI App: AI-driven Decision-making Inspired by Neon Genesis Evangelion
 
