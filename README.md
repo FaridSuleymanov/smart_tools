@@ -1,9 +1,9 @@
 # smart_tools
 It consisnt of:
-MAGI App: AI-driven Decision-making Inspired by Neon Genesis Evangelion
+MAGI: AI-driven Decision-making Inspired by Neon Genesis Evangelion
 
 Overview
-The MAGI App is a powerful decision-making tool inspired by the MAGI system from the Neon Genesis Evangelion anime television series. It utilizes the OpenAI API to simulate a multi-core AI decision-making process, providing diverse insights and perspectives on user-submitted questions.
+The MAGI is a powerful decision-making tool inspired by the MAGI system from the Neon Genesis Evangelion anime television series. It utilizes the OpenAI API to simulate a multi-core AI decision-making process, providing diverse insights and perspectives on user-submitted questions.
 
 Core Features
 Three AI Cores: The app divides the analysis into three distinct cores, each focusing on a specific aspect of decision-making: logic and rationality, empathy and understanding human emotions, and intuition and creativity.
