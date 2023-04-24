@@ -27,7 +27,7 @@ MIT AI2 Platform https://appinventor.mit.edu/
 MIT AI2 OpenAI extention: https://community.appinventor.mit.edu/t/f-os-artificial-intelligence-and-openai/74469 Thank you very much Gordon_Lu :)
 
 Getting Started
-Refer to the documentation for detailed instructions on setting up and using the MAGI Advisor.
+Refer to the Wiki for detailed instructions on setting up and using the MAGI Advisor.
 
 
 MAGI Maps: AI-driven Evacuation Routing with OpenRouteService Integration Inspired by Neon Genesis Evangelion
@@ -63,4 +63,4 @@ MIT AI2 Platform https://appinventor.mit.edu/
 MIT AI2 OpenAI extention https://community.appinventor.mit.edu/t/f-os-artificial-intelligence-and-openai/74469 Thank you very much Gordon_Lu :)
 
 Getting Started
-Refer to the documentation for detailed instructions on setting up and using MAGI Maps.
+Refer to Wiki for detailed instructions on setting up and using MAGI Maps.
